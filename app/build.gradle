@@ -70,6 +70,12 @@ dependencies {
     // https://codelabs.developers.google.com/codelabs/firebase-android/#8
     implementation 'com.google.firebase:firebase-appindexing:15.0.0'
 
+    // https://codelabs.developers.google.com/codelabs/firebase-android/#9
+    implementation 'com.google.firebase:firebase-messaging:15.0.0'
+
+    // https://codelabs.developers.google.com/codelabs/firebase-android/index.html?index=..%2F..%2Findex#10
+    implementation 'com.google.firebase:firebase-config:15.0.0'
+
     // Testing dependencies
     androidTestImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
